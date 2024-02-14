@@ -2,7 +2,7 @@
 
 # Readme
 
-[![goku minimalista](/img/mecanico.jfif)]
+<img align="center" width="120" height="120" src="/img/mecanico.jfif">
 
 | Color | Código|
 | --- | ---- |
