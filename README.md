@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="160" height="160" src="/img/mecanico.jfif"><br><hr><br><br>
+  <img width="160" height="160" src="/img/mecanico.jfif"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
     `¡Hola! soy Sebastian` 👨‍💻<br><br><br>
     Soy Programador Junior,  <a href="https://www.instagram.com/divergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
