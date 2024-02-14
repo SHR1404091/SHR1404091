@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center" style="text-aline:center;">
+<p align="center" style="text-align:center;">
   <img width="160" height="160" src="/img/mecanico.jfif"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
     `¡Hola! soy Sebastian` 👨‍💻<br><br><br>
