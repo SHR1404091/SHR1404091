@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # Readme
-<div left="100px">
+<div style="left:100px;">
 <img width="120" height="120" src="/img/mecanico.jfif">
 </div>
 
