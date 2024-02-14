@@ -5,8 +5,11 @@
       <h2 align="center">Acerca de mí</h2>
     <h4><p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p></h4><br>
     <h4><p align="center">Soy Programador Junior, Mi formacion esta dividida en tres partes:<br><br>
-    1. La empresa <a href="https://www.instagram.com/divergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> me guío y me inicio en el mundo de la programacion y con ellos aprendi la mayoria de leguajes de programacion que conosco tales como:<br>  
-    <img src="https://camo.githubusercontent.com/3c5bc88816ec33678e81b5b25629979a22c677fcfe04a3c9374a2a90ad9663a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
+    1. Yo hice parte la empresa <a href="https://www.instagram.com/divergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
+    la cual me guío y me inicio en el mundo de la programacion y con ellos aprendi la mayoria de leguajes de programacion que conosco tales 
+    como:<br>  
+    <img 
+src="https://camo.githubusercontent.com/3c5bc88816ec33678e81b5b25629979a22c677fcfe04a3c9374a2a90ad9663a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
     <img src="https://camo.githubusercontent.com/3f8f4b2def3ec4a7916b8ace67cabea2600df94978c2d081ab7e0e81d1096d9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
     <img src="https://camo.githubusercontent.com/f33641cfd76f9e092de5601d904a5a6a152b21b7a6620d70a55491d63035143b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
     <img src="https://camo.githubusercontent.com/6d1f57ef955c0cd5e96c00c3d4af0c66031a5a9951c324c073402c01888ed756/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d626c75653f7374796c653d666c6174266c6f676f3d504850266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
