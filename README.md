@@ -2,7 +2,7 @@
 
 # Readme
 
-<img align="right" width="120" height="120" src="/img/mecanico.jfif">
+<img left="-100px" align="right" width="120" height="120" src="/img/mecanico.jfif">
 
 | Color | Código|
 | --- | ---- |
