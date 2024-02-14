@@ -5,9 +5,10 @@
       <h2 align="center">Acerca de mí</h2>
     <h4><p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p></h4><br>
     <h4><p align="center">Soy Programador Junior, Mi formacion esta pidida en tres partes:<br><br>
-    1. Yo hice parte la empresa <a href="https://www.instagram.com/pergentesi/" rel="nofollow"> pERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
+    1. Yo hice parte la empresa <a href="https://www.instagram.com/pergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
     la cual me guío y me inicio en el mundo de la programacion y con ellos aprendi la mayoria de leguajes de programacion que conosco tales 
     como:<br>  
+    <div>
     <p style="cursor: none;"><img
 src="https://camo.githubusercontent.com/3c5bc88816ec33678e81b5b25629979a22c677fcfe04a3c9374a2a90ad9663a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465" ></p>
    <p style="cursor: none;"><img
@@ -19,7 +20,7 @@ src="https://camo.githubusercontent.com/6d1f57ef955c0cd5e96c00c3d4af0c66031a5a99
     <p style="cursor: none;"><img
 src="https://camo.githubusercontent.com/eea2c316168dc3c3aa5ca6bff3a10bfdcbc9a8a2067cf4844debc3c0ca532cc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c6174266c6f676f3d626f6f74737472617026266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465"></p>  
     <p style="cursor: none;"><img
-src="https://camo.githubusercontent.com/881cbe12910480fdacf134d31c66c18bf35db6a400754f2636541824924410c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c6174266c6f676f3d6d7973716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465" ></p><br><br>
+src="https://camo.githubusercontent.com/881cbe12910480fdacf134d31c66c18bf35db6a400754f2636541824924410c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c6174266c6f676f3d6d7973716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465" ></p></div><br><br>
     2. Yo estoy estudiando una tecnica en el <a href="https://www.politecnicodecolombia.edu.co/" rel="nofollow"> POLITECNICO DE COLOMBIA </a> la cual es Técnico Laboral en Asistente en Desarrollo de Software por el momento estoy en primer semestre.<br><br>
     3. Yo tambien estudio por mis propios medio utilizando una plataforma de formacion online la cual es <a href="https://www.w3schools.com/" rel="nofollow"> W3SCHOOLS </a>
     </p></h4>
