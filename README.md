@@ -3,8 +3,8 @@
 <p align="center" style="text-align:center;">
   <img width="160" height="160" src="/img/mecanico.jfif"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
-    <p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p><br><br><br>
-    <p>Soy Programador Junior,  <a href="https://www.instagram.com/divergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> </p>
+    <h3><p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p></h3><br><br><br>
+    <h3><p align="center">Soy Programador Junior,  <a href="https://www.instagram.com/divergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> </p></h3>
 </p>
 
 
