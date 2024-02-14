@@ -4,7 +4,7 @@
   <img width="160" height="160" src="/img/mecanico.jfif"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
     <h3><p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p></h3><br>
-    <h4><p align="center">Soy Programador Junior, Mi formacion esta pidida en tres partes:<br><br>
+    <h4><p align="center">Soy Programador Junior, Mi formacion esta dividida en tres partes:<br><br>
     1. Yo hice parte la empresa <a href="https://www.instagram.com/pergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
     la cual me guío y me inicio en el mundo de la programacion y con ellos aprendi la mayoria de leguajes de programacion que conosco tales 
     como:<br>  
