@@ -17,7 +17,7 @@
     <img width="60" height="50" src="/img/MYSQL.png">      
     <img width="50" height="50" src="/img/BOOTSTRAP.jpg" ><br><br>
     2. Yo estoy estudiando una tecnica en el <a href="https://www.politecnicodecolombia.edu.co/" rel="nofollow"> POLITECNICO DE COLOMBIA </a> la cual es Técnico Laboral en Asistente en Desarrollo de Software.<br><br>
-    3. Yo tambien estudio por mis propios medio utilizando una plataforma de formacion online la cual es <a href="https://www.w3schools.com/" rel="nofollow"> W3SCHOOLS </a>
+    3. Yo tambien estudio por mis propios medios utilizando una plataforma de formacion online la cual es <a href="https://www.w3schools.com/" rel="nofollow"> W3SCHOOLS </a>
     </p></h4>
 </p>
 
