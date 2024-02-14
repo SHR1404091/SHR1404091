@@ -10,11 +10,11 @@
     funcionalidades nuevas que iban sacando y asi fui escalando hasta que logre llegar a ser parte de la mesa de desarrollo en la parte de 
     frontend el trabajo  aprendi la mayoria de leguajes de programacion que conosco tales 
     como:<br><br>
-    <img width="60" height="60" src="/img/HTML5.png" >  
-    <img width="60" height="60" src="/img/CSS3.png" >    
-    <img width="60" height="60" src="/img/JS.png" >    
-    <img width="60" height="60" src="/img/PHP.png" >    
-    <img width="80" height="60" src="/img/MYSQL.png">    
+    <img width="60" height="60" src="/img/HTML5.png" ><p>  </p>  
+    <img width="60" height="60" src="/img/CSS3.png" ><p>  </p>      
+    <img width="60" height="60" src="/img/JS.png" ><p>  </p>      
+    <img width="60" height="60" src="/img/PHP.png" ><p>  </p>      
+    <img width="80" height="60" src="/img/MYSQL.png"><p>  </p>      
     <img width="60" height="60" src="/img/BOOTSTRAP.jpg" ><br><br>
     2. Yo estoy estudiando una tecnica en el <a href="https://www.politecnicodecolombia.edu.co/" rel="nofollow"> POLITECNICO DE COLOMBIA </a> la cual es Técnico Laboral en Asistente en Desarrollo de Software por el momento estoy en primer semestre.<br><br>
     3. Yo tambien estudio por mis propios medio utilizando una plataforma de formacion online la cual es <a href="https://www.w3schools.com/" rel="nofollow"> W3SCHOOLS </a>
