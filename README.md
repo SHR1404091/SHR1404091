@@ -1,11 +1,8 @@
-# Hi there 👋
+### Hi there 👋
 
 # Readme
-<div >
-<img style="left:100px;" width="120" height="120" src="/img/mecanico.jfif">
-</div>
 <p align="center">
-  <img width="460" height="300" src="/img/mecanico.jfif">
+  <img width="160" height="160" src="/img/mecanico.jfif">
 </p>
 
 | Color | Código|
@@ -31,6 +28,7 @@ Término 2
 - [ ] Tercera tarea
 
 :smile:
+:tree:
 <!--
 **SHR1404091/SHR1404091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
