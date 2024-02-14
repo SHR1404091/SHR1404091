@@ -1,5 +1,5 @@
 <p align="center" style="text-align:center;">
-  <img width="160" height="160" src="/img/programador animado.png"><br><br><br>
+  <img width="160" height="160" src="/img/programador_animado.png"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
     <h3><p align="center"><b>¡Hola! soy Sebastian<b> 👨‍💻</p></h3><br>
     <h4><p align="center">Soy Programador Junior y mis conocimientos los fui llenando en tres etapas tales como:<br><br>
