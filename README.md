@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/3c5bc88816ec33678e81b5b25629979a22c677fc
     <img src="https://camo.githubusercontent.com/6d1f57ef955c0cd5e96c00c3d4af0c66031a5a9951c324c073402c01888ed756/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d626c75653f7374796c653d666c6174266c6f676f3d504850266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
     <img src="https://camo.githubusercontent.com/eea2c316168dc3c3aa5ca6bff3a10bfdcbc9a8a2067cf4844debc3c0ca532cc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c6174266c6f676f3d626f6f74737472617026266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465">  
     <img src="https://camo.githubusercontent.com/881cbe12910480fdacf134d31c66c18bf35db6a400754f2636541824924410c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c6174266c6f676f3d6d7973716c266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465"><br><br>
-    2. Estoy estudiando una tecnica en el <a href="https://www.politecnicodecolombia.edu.co/" rel="nofollow"> POLITECNICO DE COLOMBIA </a> la cual es Técnico Laboral en Asistente en Desarrollo de Software por el momento estoy en primer semestre.<br><br>
+    2. Yo estoy estudiando una tecnica en el <a href="https://www.politecnicodecolombia.edu.co/" rel="nofollow"> POLITECNICO DE COLOMBIA </a> la cual es Técnico Laboral en Asistente en Desarrollo de Software por el momento estoy en primer semestre.<br><br>
     3. Yo tambien estudio por mis propios medio utilizando una plataforma de formacion online la cual es <a href="https://www.w3schools.com/" rel="nofollow"> W3SCHOOLS </a>
     </p></h4>
 </p>
