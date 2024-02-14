@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center" style="text-align:center;">
   <img width="160" height="160" src="/img/programador animado.png"><br><br><br>
       <h2 align="center">Acerca de mí</h2>
