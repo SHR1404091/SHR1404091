@@ -1,34 +1,14 @@
 ### Hi there 👋
 
-# Readme
 <p align="center">
   <img width="160" height="160" src="/img/mecanico.jfif">
 </p>
 
-| Color | Código|
-| --- | ---- |
-| Azul | #RRGGBB |
-| Verde | #008000 |
+<p>
+    `¡Hola! soy Sebastian` 👨‍💻
+</p>
 
 
-```javascript
-hola
-```
-
-Término 1
-: Esta es la definición del término 1
-
-Término 2
-: Esta es la primera definición del término 2
-: Esta es la segunda definición del término 2
-
-
-- [x] Primera tarea
-- [ ] Segunda tarea
-- [ ] Tercera tarea
-
-:smile:
-:tree:
 <!--
 **SHR1404091/SHR1404091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
