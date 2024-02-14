@@ -1,8 +1,9 @@
 # Hi there 👋
 
 # Readme
-
-<img left="100px" width="120" height="120" src="/img/mecanico.jfif">
+<div left="100px">
+<img width="120" height="120" src="/img/mecanico.jfif">
+</div>
 
 | Color | Código|
 | --- | ---- |
