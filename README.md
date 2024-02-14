@@ -4,6 +4,9 @@
 <div >
 <img style="left:100px;" width="120" height="120" src="/img/mecanico.jfif">
 </div>
+<p align="center">
+  <img width="460" height="300" src="/img/mecanico.jfif">
+</p>
 
 | Color | Código|
 | --- | ---- |
