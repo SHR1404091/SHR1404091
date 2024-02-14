@@ -8,7 +8,7 @@
     1. Yo hice parte la empresa <a href="https://www.instagram.com/pergentesi/" rel="nofollow"> DIVERGENTE SOLUCIONES INFORMÁTICAS S.A.S </a> 
     la cual me guío y me inicio en el mundo de la programacion y con ellos aprendi la mayoria de leguajes de programacion que conosco tales 
     como:<br>  
-    <div style="display: inline-block;">
+    <div style="display: inline;">
     <div style="cursor: none;"><img
 src="https://camo.githubusercontent.com/3c5bc88816ec33678e81b5b25629979a22c677fcfe04a3c9374a2a90ad9663a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a6172636f7665726465" ></div>
    <div style="cursor: none;"><img
