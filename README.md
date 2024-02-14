@@ -4,8 +4,10 @@
   <img width="160" height="160" src="/img/mecanico.jfif">
 </p>
 
-<p>
-    `¡Hola! soy Sebastian` 👨‍💻
+<p align="center">
+    <h2>Acerca de mí</h2>
+    `¡Hola! soy Sebastian` 👨‍💻<br><br><br>
+    Soy Programador Junior, Mis fundamendos y bases de codigo y lengujes de programacion fueron mas que todo       proporcionados por <a href="https://www.divergente.net.co/" rel="nofollow"> Divergente Soluciones Inteligentes S.A.S </a>  
 </p>
 
 
